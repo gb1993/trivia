@@ -1,0 +1,21 @@
+.user-section{
+  display: flex;
+  font-size: large;
+}
+
+.logout{
+  border: none;
+  background-color: #3a1741;
+  padding: 10px;
+  color: white;
+}
+
+.logout:hover{
+  background-color: #8a3399;
+}
+
+footer a{
+  background-color: #1d0b20;
+  color: white;
+  width: 100%;
+}
